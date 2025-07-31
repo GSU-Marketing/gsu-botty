@@ -28,7 +28,6 @@ filelock==3.18.0
 folium==0.19.7
 frozenlist==1.6.2
 fsspec==2025.5.1
-future @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 geographiclib==2.0
 geoip2==5.1.0
 geopy==2.4.1
@@ -68,7 +67,6 @@ langchain-text-splitters==0.3.8
 langsmith==0.3.42
 lxml==5.4.0
 lxml_html_clean==0.4.2
-macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==3.0.2
 maxminddb==2.7.0
 mpmath==1.3.0
@@ -119,7 +117,6 @@ safetensors==0.5.3
 scikit-learn==1.6.1
 scipy==1.13.1
 sentence-transformers==4.1.0
-six @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 smmap==5.0.2
 sniffio==1.3.1
 soupsieve==2.7
