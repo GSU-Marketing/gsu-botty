@@ -1,4 +1,6 @@
 fastapi
-uvicorn
 openai
+uvicorn[standard]
 python-dotenv
+beautifulsoup4
+requests
